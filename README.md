@@ -1,2 +1,0 @@
-# phonebook
-basic phonebook application
